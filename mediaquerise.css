@@ -27,13 +27,6 @@ footer nav{
 }
 }
 @media(max-width:1290px) {
-  .section-two .section-two-heading {
-    flex-wrap: nowrap;
-  }
-  .section-two-heading-two{
-    flex-wrap: nowrap;
-  }
-
 footer nav ul {
   margin-top: 10px;
 }
